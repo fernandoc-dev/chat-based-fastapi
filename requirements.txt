@@ -1,0 +1,16 @@
+fastapi==0.95.0
+fastapi-mail==1.2.8
+pydantic==1.10.7
+uvicorn==0.21.1
+python-decouple==3.8
+python-dotenv==1.0.0
+tenacity==8.2.2
+requests==2.28.2
+sqlalchemy==2.0.15
+alembic==1.11.1
+psycopg2==2.9.6
+httpx==0.24.1
+pytest==7.3.2
+pytest-factoryboy==2.5.1
+pytest-mock==3.11.1
+hipal-mixin-scrud==1.0.4
